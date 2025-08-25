@@ -152,3 +152,5 @@ bitmap
 6
 variable
 20
+alevel
+700
