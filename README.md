@@ -2,6 +2,8 @@
 
 Welcome to **Materials for NJCCZ Students**! This repository is designed to store teaching and learning materials for H2 Computing and a little more. 
 
+Hello my name is Han Jiseong
+
 ---
 
 ## Table of Contents
